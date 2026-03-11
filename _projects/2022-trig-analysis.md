@@ -2,7 +2,7 @@
 Author: Varun Raman
 Title: Nutcracker Design
 technologies: None (N/A)
-image: /assets/images/function-graph.png
+image: /assets/images/NutCracker Design.pdf
 ---
 
 
@@ -39,7 +39,7 @@ MA = Fout/Fin;              MA = 2500/350 ;                         MA = 7.14
 
 4. DIAGRAM
 
-
+[View Nutcracker Diagram (PDF)](/assets/images/NutCracker Design.pdf)
 
 5. DISCUSSION
 
