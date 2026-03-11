@@ -20,15 +20,14 @@ The objective of this project is to determine viable dimensions for a hand-opera
 
 2. CONSTRAINTS AND INPUT PARAMETERS
 
-Required Force (RF) = 2500 N
-Nut Diameter = 30 mm
-Input Force (IF) = 350 N (based on average human grip force) 
+Required Force (RF) = 2500 N; 
+Nut Diameter = 30 mm; 
+Input Force (IF) = 350 N (based on average human grip force); 
 Lrf = 20 mm
-
 
 3. APPROACH
 
-A simple lever nutcracker is a two arm lever, meaning that the length and mechanical advantage can be computed using the following equations: 
+A simple lever nutcracker is a two-arm lever, meaning that the length and mechanical advantage can be computed using the following equations: 
 
 ∑M = -RF(Lrf) + IF(Lif) = 0
 
